@@ -1,6 +1,6 @@
 # Galeria de Fotos
 
-Projeto feito utilizando as tecnologias: 
+Projeto feito utilizando as tecnologias:</br>
 <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white%22"/>
 <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-1E90FF?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
